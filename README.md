@@ -1,5 +1,9 @@
 # React + Vite
 
+![image](https://github.com/GianmarcoP93/Ristorante-sushi-bootstrap-/assets/129062936/daca0cd0-f2d9-498b-9991-ff044ad47883)
+
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
